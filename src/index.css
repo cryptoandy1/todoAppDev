@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+    'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  color: white;
+  /* background-color: #112d49; */
+  background: url('./components/UI/pexels-wallace-chuck-3728085.jpg');
+  height: 100vh;
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+/* background-image: url('./components/UI/pexels-wallace-chuck-3728085.jpg'); */
